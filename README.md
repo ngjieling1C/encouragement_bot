@@ -1,1 +1,2 @@
 # encouragement_bot
+hi
